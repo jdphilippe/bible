@@ -1,10 +1,37 @@
 
-	H1 { font-weight: normal; font-size: 24pt; color: #003399 }
-	H2 { font-weight: bold; font-size: large; font-variant: small-caps ; color: #003399;margin-top=25pt }
-	H3 { font-weight: bold; font-size: medium; color: #003399;margin-top=20pt }
-	STRONG { color: #003399 }
-	EM { color: #003399; font-weight: italic }
-	UL { list-style-image: url(icones/rond.gif) }
+H1 {
+    font-weight : normal;
+    font-size : 24pt;
+    color : #003399;
+}
+
+H2 {
+	font-weight : bold;
+	font-size : large;
+	font-variant : small-caps;
+	color : #003399;
+}
+
+H3 {
+	font-weight : bold;
+	font-size : medium;
+	color : #003399;
+}
+
+STRONG {
+    color : #003399;
+}
+EM {
+    color : #003399;
+}
+
+UL {
+    list-style-image : url(icones/rond.gif);
+} 
+
+.parole_jesus {
+	color: red;
+}
 
 .pjd_barre {
 	text-decoration: line-through;
