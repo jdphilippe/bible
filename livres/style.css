@@ -1,0 +1,19 @@
+
+	H1 { font-weight: normal; font-size: 24pt; color: #003399 }
+	H2 { font-weight: bold; font-size: large; font-variant: small-caps ; color: #003399;margin-top=25pt }
+	H3 { font-weight: bold; font-size: medium; color: #003399;margin-top=20pt }
+	STRONG { color: #003399 }
+	EM { color: #003399; font-weight: italic }
+	UL { list-style-image: url(icones/rond.gif) }
+
+.pjd_barre {
+	text-decoration: line-through;
+}
+
+.pjd_modif {
+	color: blue;
+}
+
+.pjd_verbe {
+	color: orange;
+}
