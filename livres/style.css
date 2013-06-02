@@ -41,6 +41,10 @@ UL {
 	color: blue;
 }
 
-.pjd_verbe {
-	color: orange;
+.pjd_ancien_mot {
+	display: none;
+}
+
+.pjd_mot {
+	color: maroon;
 }
